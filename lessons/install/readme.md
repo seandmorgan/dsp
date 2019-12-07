@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3 because it is the version I have more practice with. I took a class in college about Python programming where we used Python 3 and Rodeo to program.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I am able to run a jupyter notebook in my browser and it says it's running python 3 but not by typing it in it just says it in corner. I cannot use the command line to find out the versions. The only one that worked is git --version from the command line. I think it's because I am using a windows pc for now, so idk if there is a different way of checking? I will be getting a Mac in January for the bootcamp, so that will relieve these issues.
 
  
 
